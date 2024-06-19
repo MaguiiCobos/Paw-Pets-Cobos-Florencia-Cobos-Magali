@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Boogaloo&display=swap");
+
+.containerMenu {
+  background-color: #ffe782;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  display: flex;
+  font-family: "Boogaloo";
+  align-items: center;
+  text-decoration-line: none;
+}
+
+img {
+  width: 50px;
+}
+
+h1 {
+  color: #242424;
+  font-size: 25px;
+}
+
+.linkMenu {
+  color: #242424;
+  font-weight: 500;
+  margin: 0 20px;
+  text-decoration-line: none;
+}
+
+.linkMenu:hover {
+  color: #dd595d;
+}
+
+.divUserList{
+  display: flex;
+  gap: 20px;
+}
+
+.user{
+  color: #242424;
+  margin-top: 10px;
+}
+
+

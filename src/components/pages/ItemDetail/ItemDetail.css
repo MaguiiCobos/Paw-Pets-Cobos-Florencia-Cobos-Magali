@@ -1,0 +1,51 @@
+.info {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  width: 80%;
+  margin: auto;
+}
+
+.verInfo {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.imgPerro {
+  width: 400px;
+}
+
+.containerInfo {
+  background-color: #fffef2;
+  margin-left: 10px;
+  padding: 10px 20px;
+}
+
+.parrafoInfo {
+  margin: 10px 0;
+}
+
+.containerRequisitos {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 20px;
+  margin-left: 130px;
+  padding-bottom: 30px;
+  width: 80%;
+  background-color: #fffef2;
+}
+
+.requisitos {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: 500;
+  color: #242424;
+}
+
+.requisito {
+  margin-top: 15px;
+  padding-bottom: 5px;
+  border-bottom: 1px solid #242424;
+  margin-left: 50px;
+  margin-right: 50px;
+}

@@ -1,0 +1,23 @@
+.containerCard {
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+  width: auto;
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.btns {
+  text-align: center;
+}
+
+.btnVerInfo {
+  background-color: #f5d761;
+  color: #242424;
+  width: 400px;
+  height: 30px;
+  border-radius: 0 20px 0 20px;
+  text-decoration-line: none;
+  padding-top: 10px;
+}
+
+

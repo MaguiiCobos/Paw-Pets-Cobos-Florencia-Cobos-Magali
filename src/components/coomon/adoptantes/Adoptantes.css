@@ -1,0 +1,19 @@
+.divAdoptantes{
+    display: flex;
+    justify-content: center;
+}
+
+.divNombresAdoptantes{
+    background-color: #ffe782;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 20px 0 20px 0;
+    border: 3px solid #fad956;
+    display: flex;
+}
+
+.nombresAdoptantes{
+    color: #242424;
+    font-size: 20px;
+}

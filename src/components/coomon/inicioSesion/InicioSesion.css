@@ -1,0 +1,41 @@
+.divInicioSesion {
+  margin: auto;
+  padding: 20px;
+  display: flex;
+  width: 270px;
+  flex-wrap: wrap;
+}
+
+.divInicioSesion div{
+    margin-left: 2px;
+}
+
+.bienvenido{
+    font-size: 30px;
+}
+
+.btnVolverInicio{
+    margin: 15px 5px;
+    padding: 10px;
+    background-color: #dd595d;
+    border: none;
+    border-radius: 0 20px 0 20px;
+    color: rgb(255, 250, 234);
+    font-weight: bold;
+}
+
+.btnCerrarSesion{
+    margin: 15px 5px;
+    padding: 10px;
+    background-color: #dd595d;
+    border-radius: 30px;
+    border: none;
+    border-radius: 20px 0 20px 0;
+    color: rgb(255, 250, 234);
+    font-weight: bold;
+}
+
+.btnVolverInicio:hover, .btnCerrarSesion:hover{
+    background-color: #bb4044;
+    cursor: pointer;
+}
